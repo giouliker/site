@@ -10,7 +10,6 @@ slides:
   - dynabook
   - plato4
   - logo-graphics
-  - logo
   - home-programming
   - computer-lab
   - rockys-boots
@@ -29,5 +28,5 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
-  - 
+  - logo-programming
 ---
