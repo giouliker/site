@@ -5,6 +5,7 @@ image_url: /images/logo-robot.jpg
 caption: Οι προσπάθειες για τον συνδυασμό υπολογιστών και μάθησης ξεκίνησαν πριν τους πρώτους μίκρο-υπολογιστές και συνεχίζονται με τα σύγχρονα πολυμεσικά, κινητά και φορετά συστήματα. 
 slides:
   - dartmouth-basic
+  - dartmouth-basic
   - logo-robot 
   - dynabook
   - plato4
@@ -27,4 +28,5 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - 
 ---
