@@ -8,8 +8,8 @@ events:
   - plato4
   - logo-robot 
   - dynabook
-  - logo-programming
   - children-alto
+  - plato4
   - logo-graphics
   - home-programming
   - computer-lab
@@ -19,6 +19,6 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
-  - visual-programming
 ---
+
 
