@@ -10,6 +10,7 @@ events:
   - dynabook
   - children-alto
   - plato4
+  - logo-programming
   - logo-graphics
   - home-programming
   - computer-lab
@@ -19,5 +20,6 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - visual-programming
 ---
 
