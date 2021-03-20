@@ -19,6 +19,7 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - visual-programming
 ---
 
 
