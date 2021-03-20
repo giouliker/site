@@ -8,9 +8,8 @@ events:
   - plato4
   - logo-robot 
   - dynabook
-  - children-alto
-  - plato4
   - logo-programming
+  - children-alto
   - logo-graphics
   - home-programming
   - computer-lab
