@@ -7,6 +7,6 @@ categories:
   - Μελέτη Περίπτωσης
   - Ορισμός
 tags:
-  - 
+  - LEGO
   ---
   {% include extras/cs-lego.md %}
